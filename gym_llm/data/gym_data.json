@@ -1,0 +1,195 @@
+[
+    {
+        "title":"Fitness Goal: Weight Loss, Health Status: Good, Preferences: Cardio, Targeted Muscle Group: Legs",
+        "context":"Suggested Exercise: Cycling"
+    },
+    {
+        "title":" Fitness Goal: Muscle Building, Health Status: Average, Preferences: Weightlifting, Targeted Muscle Group: Chest",
+        "context":"Suggested Exercise: Bench Press"
+    },
+    {
+        "title":"itness Goal: Flexibility, Health Status: Excellent, Preferences: Yoga, Targeted Muscle Group: Core",
+        "context":"Suggested Exercise: Plank"
+    },
+    {
+        "title":"Fitness Goal: Endurance, Health Status: Good, Preferences: Running, Targeted Muscle Group: Full Body",
+        "context":"Suggested Exercise: Burpees"
+    },
+    {
+        "title":"Fitness Goal: Muscle Building, Health Status: Good, Preferences: Weightlifting, Targeted Muscle Group: Back ",
+        "context":"Suggested Exercise: Bent-Over Rows"
+    },
+    {
+        "title":" Fitness Goal: Weight Loss, Health Status: Average, Preferences: Cardio, Targeted Muscle Group: Legs",
+        "context":"Suggested Exercise: Running"
+    },
+    {
+        "title":"Fitness Goal: Flexibility, Health Status: Good, Preferences: Yoga, Targeted Muscle Group: Core",
+        "context":"Suggested Exercise: Russian Twists"
+    },
+    {
+        "title":"Fitness Goal: Endurance, Health Status: Excellent, Preferences: Running, Targeted Muscle Group: Full Body",
+        "context":"Suggested Exercise: Jumping Jacks"
+    },
+    {
+        "title":"Fitness Goal: Weight Loss, Health Status: Average, Preferences: Cardio, Targeted Muscle Group: Legs",
+        "context":"Suggested Exercise: Stair Climbing"
+    },
+    {
+        "title":"Fitness Goal: Muscle Building, Health Status: Good, Preferences: Weightlifting, Targeted Muscle Group: Chest",
+        "context":"Suggested Exercise: Dumbbell Flyes"
+    },
+    {
+        "title":"Fitness Goal: Flexibility, Health Status: Excellent, Preferences: Yoga, Targeted Muscle Group: Core",
+        "context":"Suggested Exercise: Hanging Leg Raises"
+    },
+    {
+        "title":"Fitness Goal: Endurance, Health Status: Good, Preferences: Running, Targeted Muscle Group: Full Body",
+        "context":"Suggested Exercise: Mountain Climbers"
+    },
+    {
+        "title":"Fitness Goal: Muscle Building, Health Status: Average, Preferences: Weightlifting, Targeted Muscle Group: Back",
+        "context":"Suggested Exercise: Lat Pulldowns"
+    },
+    {
+        "title":"Fitness Goal: Weight Loss, Health Status: Good, Preferences: Cardio, Targeted Muscle Group: Legs",
+        "context":"Suggested Exercise: Elliptical Trainer"
+    },
+    {
+        "title":"Fitness Goal: Flexibility, Health Status: Excellent, Preferences: Yoga, Targeted Muscle Group: Core",
+        "context":"Suggested Exercise: Side Plank"
+    },
+    {
+        "title":"Fitness Goal: Endurance, Health Status: Average, Preferences: Running, Targeted Muscle Group: Full Body",
+        "context":"Suggested Exercise: High Knees"
+    },
+    {
+        "title":"Fitness Goal: Muscle Building, Health Status: Good, Preferences: Weightlifting, Targeted Muscle Group: Shoulders",
+        "context":"Suggested Exercise: Shoulder Press"
+    },
+    {
+        "title":"Fitness Goal: Weight Loss, Health Status: Good, Preferences: Cardio, Targeted Muscle Group: Legs",
+        "context":"Suggested Exercise: Walking Lunges"
+    },
+    {
+        "title":"Fitness Goal: Flexibility, Health Status: Excellent, Preferences: Yoga, Targeted Muscle Group: Core",
+        "context":"Suggested Exercise: Leg Raises"
+    },
+    {
+        "title":"Fitness Goal: Endurance, Health Status: Good, Preferences: Running, Targeted Muscle Group: Full Body",
+        "context":"Suggested Exercise: Burpees"
+    },
+    {
+        "title":"Fitness Goal: Muscle Building, Health Status: Average, Preferences: Weightlifting, Targeted Muscle Group: Arms",
+        "context":"Suggested Exercise: Tricep Dips"
+    },
+    {
+        "title":"Fitness Goal: Weight Loss, Health Status: Good, Preferences: Cardio, Targeted Muscle Group: Legs",
+        "context":"Suggested Exercise: Biking"
+    },
+    {
+        "title":"Fitness Goal: Flexibility, Health Status: Excellent, Preferences: Yoga, Targeted Muscle Group: Core",
+        "context":"Suggested Exercise: Plank with Leg Lifts"
+    },
+    {
+        "title":"Fitness Goal: Endurance, Health Status: Good, Preferences: Running, Targeted Muscle Group: Full Body",
+        "context":"Suggested Exercise: Box Jumps"
+    },
+    {
+        "title":"Fitness Goal: Muscle Building, Health Status: Average, Preferences: Weightlifting, Targeted Muscle Group: Arms",
+        "context":"Suggested Exercise: Bicep Curls"
+    },
+    {
+        "title":"Fitness Goal: Weight Loss, Health Status: Good, Preferences: Cardio, Targeted Muscle Group: Legs",
+        "context":"Suggested Exercise: Jump Squats"
+    },
+    {
+        "title":"Fitness Goal: Flexibility, Health Status: Excellent, Preferences: Yoga, Targeted Muscle Group: Core",
+        "context":"Suggested Exercise: Boat Pose"
+    },
+    {
+        "title":"Fitness Goal: Endurance, Health Status: Good, Preferences: Running, Targeted Muscle Group: Full Body",
+        "context":"Suggested Exercise: Rowing Machine"
+    },
+    {
+        "title":"Fitness Goal: Muscle Building, Health Status: Average, Preferences: Weightlifting, Targeted Muscle Group: Legs",
+        "context":"Suggested Exercise: Leg Press"
+    },
+    {
+        "title":"Fitness Goal: Weight Loss, Health Status: Good, Preferences: Cardio, Targeted Muscle Group: Legs",
+        "context":"Suggested Exercise: Step Aerobics"
+    },
+    {
+        "title":"Fitness Goal: Flexibility, Health Status: Excellent, Preferences: Yoga, Targeted Muscle Group: Core",
+        "context":"Suggested Exercise: Bicycle Crunches"
+    },
+    {
+        "title":"Fitness Goal: Endurance, Health Status: Good, Preferences: Running, Targeted Muscle Group: Full Body",
+        "context":"Suggested Exercise: Sprint Intervals"
+    },
+    {
+        "title":"Fitness Goal: Muscle Building, Health Status: Average, Preferences: Weightlifting, Targeted Muscle Group: Chest",
+        "context":"Suggested Exercise: Incline Bench Press"
+    },
+    {
+        "title":"Fitness Goal: Weight Loss, Health Status: Good, Preferences: Cardio, Targeted Muscle Group: Legs",
+        "context":"Suggested Exercise: Skating"
+    },
+    {
+        "title":"Fitness Goal: Flexibility, Health Status: Excellent, Preferences: Yoga, Targeted Muscle Group: Core",
+        "context":"Suggested Exercise: Dead Bug Exercise"
+    },
+    {
+        "title":"Fitness Goal: Endurance, Health Status: Good, Preferences: Running, Targeted Muscle Group: Full Body",
+        "context":"Suggested Exercise: Bear Crawls"
+    },
+    {
+        "title":"Fitness Goal: Muscle Building, Health Status: Average, Preferences: Weightlifting, Targeted Muscle Group: Back",
+        "context":"Suggested Exercise: Seated Cable Rows"
+    },
+    {
+        "title":"Fitness Goal: Weight Loss, Health Status: Good, Preferences: Cardio, Targeted Muscle Group: Legs",
+        "context":"Suggested Exercise: Jump Rope"
+    },
+    {
+        "title":"Fitness Goal: Flexibility, Health Status: Excellent, Preferences: Yoga, Targeted Muscle Group: Core",
+        "context":"Suggested Exercise: Standing Forward Bend"
+    },
+    {
+        "title":"Fitness Goal: Endurance, Health Status: Good, Preferences: Running, Targeted Muscle Group: Full Body",
+        "context":"Suggested Exercise: Jumping Rope"
+    },
+    {
+        "title":"Fitness Goal: Muscle Building, Health Status: Average, Preferences: Weightlifting, Targeted Muscle Group: Shoulders",
+        "context":"Suggested Exercise: Front Raise"
+    },
+    {
+        "title":"Fitness Goal: Weight Loss, Health Status: Good, Preferences: Cardio, Targeted Muscle Group: Legs",
+        "context":"Suggested Exercise: Jumping Lunges"
+    },
+    {
+        "title":"Fitness Goal: Flexibility, Health Status: Excellent, Preferences: Yoga, Targeted Muscle Group: Core",
+        "context":"Suggested Exercise: Child's Pose"
+    },
+    {
+        "title":"Fitness Goal: Endurance, Health Status: Good, Preferences: Running, Targeted Muscle Group: Full Body",
+        "context":"Suggested Exercise: Running Upstairs"
+    },
+    {
+        "title":"Fitness Goal: Muscle Building, Health Status: Average, Preferences: Weightlifting, Targeted Muscle Group: Arms",
+        "context":"Suggested Exercise: Hammer Curls"
+    },
+    {
+        "title":"Fitness Goal: Weight Loss, Health Status: Good, Preferences: Cardio, Targeted Muscle Group: Legs",
+        "context":"Suggested Exercise: Hiking"
+    },
+    {
+        "title":"Fitness Goal: Flexibility, Health Status: Excellent, Preferences: Yoga, Targeted Muscle Group: Core",
+        "context":"Suggested Exercise: Upward Plank Pose"
+    },
+    {
+        "title":"Fitness Goal: Endurance, Health Status: Good, Preferences: Running, Targeted Muscle Group: Full Body",
+        "context":"Suggested Exercise: Battle Rope Exercises"
+    }
+
+]
