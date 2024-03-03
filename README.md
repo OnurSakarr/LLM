@@ -2,6 +2,7 @@
 
 
 With Llama2, embark on a personalized workout experience designed to meet your unique needs and goals. Say goodbye to generic fitness routines and hello to targeted guidance that evolves with you over time. Whether you're a beginner or a seasoned athlete, Llama2 adapts to your pace, ensuring optimal progress and results. Get ready to redefine your fitness routine with Llama2 by your side, available whenever and wherever you need it.
+<b>note = this training is given on colab. for this reason the training is not very long and the parameters are given very little.</b>
 ![](https://github.com/OnurSakarr/LLM/blob/master/gym_llm/Image/image%20%2875%29.png)
 ## Model
 meta-llama/Llama-2-7b <br> 
