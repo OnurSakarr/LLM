@@ -27,4 +27,4 @@ prompt= \<s\>\[INST\] \<\<SYS\>\> Below is an instruction that describes a task.
 
 
 ## Hugging Face
-onurSakar/llama2-qlora-finetunined-GYM-Assistant
+[onurSakar/llama2-qlora-finetunined-GYM-Assistant](https://huggingface.co/onurSakar/llama2-qlora-finetunined-GYM-Assistant)
